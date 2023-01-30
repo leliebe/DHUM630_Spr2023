@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<books>
+    <book>
+        <title>Titus Andronicus</title>
+        <author>William Shakespeare</author>
+        <publisher>Arden Shakespeare</publisher>
+        <publicationDate>2004</publicationDate>
+    </book>
+    <book>
+        <title>Eating and Ethics in Shakespeare's England</title>
+        <author>Goldstein, David</author>
+        <publisher>Cambridge University Press</publisher>
+        <publicationDate>2013</publicationDate>
+    </book>
+    <book>
+        <title>The Hand on the Shakespearean Stage</title>
+        <editor>Farah Karim-Cooper</editor>
+        <publisher>Bloomsbury</publisher>
+        <publicationDate>2016</publicationDate>
+    </book>
+</books>
